@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "846995684368",
-    "project_id": "jay-beta-d0ea1",
-    "storage_bucket": "jay-beta-d0ea1.firebasestorage.app"
+    "project_number": "503114121309",
+    "project_id": "jay-code-30ec5",
+    "storage_bucket": "jay-code-30ec5.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:846995684368:android:fefb484bb812369b7ede95",
+        "mobilesdk_app_id": "1:503114121309:android:866e82f358f6c7a9e2cdb4",
         "android_client_info": {
-          "package_name": "za.co.jay.code.beta"
+          "package_name": "za.co.jay.code"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD748PXD-JpSwNOPvZHLVAkT6yEgxAUaqE"
+          "current_key": "AIzaSyAI0vaxNREkIiq6DFtfS-LH6YtIqY8dbDg"
         }
       ],
       "services": {
